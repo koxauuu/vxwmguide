@@ -66,3 +66,5 @@ exec sleep infinity
 
 Соберите и установите терминал с помощью команды: sudo make clean install
 
+
+обязательно устнавливаем firefox
